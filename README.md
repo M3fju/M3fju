@@ -1,2 +1,2 @@
-mefju == kox valo
+mefju == kox valo;
 mefju == beginner programmer
